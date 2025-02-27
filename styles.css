@@ -1,0 +1,48 @@
+body {
+    background-color: #FAF3DD;
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    font-size: 20px;
+}
+
+img{
+    border-radius: 10px;
+    border: 1px solid #E76F51;
+}
+
+.target-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-page-heading, .recipe-heading {
+    font-family: "Meow Script", cursive;
+    font-weight: bold;
+    font-size: 75px;
+    text-align: center;
+    color: #3D405B;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+
+a {
+    text-decoration-color: #3D405B;
+    
+}
+
+h2 {
+    color: #A3B18A;
+}
+
+a, h3{
+    color: #E76F51;
+}
+
