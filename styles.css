@@ -46,3 +46,24 @@ a, h3{
     color: #E76F51;
 }
 
+
+#recipe-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.lasagna-div, .pizza-div, .fries-div{
+    display: flex;
+    flex-direction: column;
+}
+
+.target-page-pointer{
+    text-align: center;
+    margin: 5px;
+}
+
+.index-image{
+    max-width: 500px;
+    max-height: 400px;
+}
